@@ -8,3 +8,5 @@ Just finished up my MERN stack at coding dojo. Going to look into doing more wit
 <br>
 Passed my MERN exam, working on a practice probelm which was team manager. This was basically the exam but with a little bit of tweaks. Would like to learn how to make my sites look better since these problems are more back end focused instead of just making the site look nice
 <br>
+2/03
+<br>
