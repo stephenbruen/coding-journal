@@ -10,3 +10,7 @@ Passed my MERN exam, working on a practice probelm which was team manager. This 
 <br>
 2/03
 <br>
+2/04>
+<br>
+working on tailwind css to see hwo it compares to bootsrap seems a bit more high level compared to bootstrap since there's not built in components but you can customizes everything a bit more and seems to be easier to set up the flow and design of your website easier
+<br>
