@@ -18,3 +18,7 @@ working on tailwind css to see hwo it compares to bootsrap seems a bit more high
 <br>
 working on my solo project need to learn how to push things to github and update when i update on vscode
 <br>
+2/16
+<br>
+Have most of my front end done for my personel project should be finished up later this weekedn and start on the backend
+<br>
