@@ -22,3 +22,7 @@ working on my solo project need to learn how to push things to github and update
 <br>
 Have most of my front end done for my personel project should be finished up later this weekedn and start on the backend
 <br>
+2/27
+<br> 
+mainly helping with group project on login and req who'd think it's hard to login and reg on a site
+<br>
