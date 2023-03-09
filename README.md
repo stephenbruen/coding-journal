@@ -26,3 +26,8 @@ Have most of my front end done for my personel project should be finished up lat
 <br> 
 mainly helping with group project on login and req who'd think it's hard to login and reg on a site
 <br>
+3/8
+<br>
+finsihed up my coding bootcamp, going to learn ruby on rails since some jobs I might be able to get need me to learn it and see how fast I can learn a new language
+<br>
+3/09
