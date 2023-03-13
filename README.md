@@ -30,4 +30,10 @@ mainly helping with group project on login and req who'd think it's hard to logi
 <br>
 finsihed up my coding bootcamp, going to learn ruby on rails since some jobs I might be able to get need me to learn it and see how fast I can learn a new language
 <br>
-3/09
+3/12
+<br>
+I've been working on my resume and going to learn and practice some more react
+<br>
+3/13
+<br>
+
