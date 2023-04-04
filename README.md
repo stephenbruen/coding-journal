@@ -40,3 +40,9 @@ I've been working on my resume and going to learn and practice some more react
 3/13
 <br>
 blah blah blah
+<br>
+4/03/22
+<br>
+Been slacking need to do school and code very day, I have the time for it
+<br>
+
