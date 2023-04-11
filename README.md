@@ -50,3 +50,6 @@ Been slacking need to do school and code very day, I have the time for it
 working and school got me messed up
 <br>
 idk if i like coding
+<br>
+Okay I need to code now, got to focus up here soon
+<br>
