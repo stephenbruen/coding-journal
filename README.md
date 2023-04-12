@@ -53,3 +53,5 @@ idk if i like coding
 <br>
 Okay I need to code now, got to focus up here soon
 <br>
+Almost forgot today
+<br>
