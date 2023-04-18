@@ -56,3 +56,6 @@ Okay I need to code now, got to focus up here soon
 Almost forgot today
 <br>
 Blah blah blah bkah
+<br>
+working on my resume and cover letter, touching up my portfolio site
+<br>
