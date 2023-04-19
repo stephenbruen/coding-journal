@@ -59,3 +59,4 @@ Blah blah blah bkah
 <br>
 working on my resume and cover letter, touching up my portfolio site
 <br>
+it's serious time now
