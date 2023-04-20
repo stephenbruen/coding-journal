@@ -60,3 +60,5 @@ Blah blah blah bkah
 working on my resume and cover letter, touching up my portfolio site
 <br>
 it's serious time now
+<br>
+applied for a few jobs today
