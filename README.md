@@ -62,3 +62,5 @@ working on my resume and cover letter, touching up my portfolio site
 it's serious time now
 <br>
 applied for a few jobs today
+<br>
+portfolio site almost done. This week is mine
