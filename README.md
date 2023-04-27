@@ -64,3 +64,5 @@ it's serious time now
 applied for a few jobs today
 <br>
 portfolio site almost done. This week is mine
+<br>
+I need a new job
