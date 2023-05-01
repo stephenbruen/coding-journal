@@ -68,3 +68,6 @@ portfolio site almost done. This week is mine
 I need a new job
 <br>
 need job
+<br> 
+ran a half marathon today for some reason
+<br>
