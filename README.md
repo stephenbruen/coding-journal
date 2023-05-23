@@ -82,3 +82,5 @@ didn't forget otdday
 i think I've narrowed down what I want to do in life
 <br>
 done
+<br>
+fight fighter seems like a good job
